@@ -1,4 +1,3 @@
-This a PollApp -django app
+PollApp 
                 
-->add polls are stored in db 
-->dynamically add poll qestion
+> simple poll-app that allow vote for poll and conduct your own poll
